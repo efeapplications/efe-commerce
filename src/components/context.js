@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { ThemeConsumer } from 'styled-components';
+
 import {storeProducts, detailProduct} from '../data';
 
 
